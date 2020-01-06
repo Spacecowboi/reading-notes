@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
+ - This will be where I keep all of my lecture notes and reading notes related to Software Development for 201
 
-You can use the [editor on GitHub](https://github.com/Spacecowboi/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ ## Day 1 Notes
+  - Content here
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ ## Day 2 Notes
+  - *Content here*
 
-### Markdown
+ ## Day 3 Notes
+  - *Content here*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ ## Day 4 Notes
+  - **Content goes here**
 
-```markdown
-Syntax highlighted code block
+ ## Day 5 Notes
+  - Content goes here
 
-# Header 1
-## Header 2
-### Header 3
+ ## Day 6 Notes
+  1. Potentially listed content
 
-- Bulleted
-- List
+ ## Day 7 Notes
+  - Conent goes here 
 
-1. Numbered
-2. List
+ ## Day 8 Notes
+  - Content goes here
 
-**Bold** and _Italic_ and `Code` text
+ ## Day 9 Notes
+  - Content goes here
 
-[Link](url) and ![Image](src)
-```
+ ## Day 10 Notes
+  - Content goes here
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ ## Day 11 Notes
+  - Content goes here
 
-### Jekyll Themes
+ ## Day 12 Notes
+  - Content goes here
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Spacecowboi/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ ## Day 13 Notes
+  - Content goes here
 
-### Support or Contact
+ ## Day 14 Notes
+  - Content goes here
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ## Day 15 Notes
+  - Content goes here
